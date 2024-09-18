@@ -1,0 +1,2 @@
+# licensing-resources
+Licensing resources
